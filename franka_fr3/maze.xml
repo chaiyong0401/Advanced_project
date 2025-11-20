@@ -1,0 +1,8 @@
+<mujocoinclude>
+  <body name="maze_1" pos="0 0 0" quat="1 0 0 0">
+    <include file="/home/dyros-recruit/fr3_control_mujoco_template_ad_pro/franka_fr3/maze1.xml"/>
+  </body>
+  <body name="maze_2" pos="0.307279 0.000000 0.127279" quat="0.923880 0.000000 -0.382683 0.000000">
+    <include file="/home/dyros-recruit/fr3_control_mujoco_template_ad_pro/franka_fr3/maze2.xml"/>
+  </body>
+</mujocoinclude>

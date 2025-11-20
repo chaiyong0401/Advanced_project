@@ -1,0 +1,43 @@
+<mujocoinclude>
+<body>
+    <geom name="maze_1_floor" type="box" pos="0 0 -0.002500" size="0.120000 0.180000 0.002500" rgba="0.2 0.2 0.2 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <camera name="maze_1_top" pos="0 0 0.468000" quat="0 1 0 0" mode="trackcom"/>
+    <geom name="maze_1_wall_0" type="box" pos="0.019000 0.175000 0.025000" size="0.101000 0.005000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_1" type="box" pos="-0.077000 0.148500 0.025000" size="0.005000 0.021500 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_2" type="box" pos="-0.020000 0.132000 0.025000" size="0.024000 0.005000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_3" type="box" pos="-0.115000 0.137000 0.025000" size="0.005000 0.043000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_4" type="box" pos="-0.039000 0.110500 0.025000" size="0.005000 0.016500 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_5" type="box" pos="0.076000 0.115500 0.025000" size="0.005000 0.021500 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_6" type="box" pos="0.115000 0.132000 0.025000" size="0.005000 0.038000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_7" type="box" pos="-0.077000 0.089000 0.025000" size="0.043000 0.005000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_8" type="box" pos="0.095500 0.089000 0.025000" size="0.024500 0.005000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_9" type="box" pos="0.037000 0.110000 0.025000" size="0.005000 0.060000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_10" type="box" pos="-0.058000 0.045000 0.025000" size="0.024000 0.005000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_11" type="box" pos="0.056500 0.045000 0.025000" size="0.024500 0.005000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_12" type="box" pos="-0.077000 0.023000 0.025000" size="0.005000 0.017000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_13" type="box" pos="-0.001000 0.066500 0.025000" size="0.005000 0.060500 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_14" type="box" pos="-0.039000 0.001000 0.025000" size="0.043000 0.005000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_15" type="box" pos="0.037000 0.001000 0.025000" size="0.005000 0.039000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_16" type="box" pos="-0.001000 -0.043000 0.025000" size="0.043000 0.005000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_17" type="box" pos="0.076000 -0.038000 0.025000" size="0.005000 0.044000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_18" type="box" pos="0.056500 -0.087000 0.025000" size="0.024500 0.005000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_19" type="box" pos="-0.039000 -0.087000 0.025000" size="0.005000 0.039000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_20" type="box" pos="-0.001000 -0.104000 0.025000" size="0.005000 0.022000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_21" type="box" pos="0.115000 -0.021000 0.025000" size="0.005000 0.105000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_22" type="box" pos="-0.077000 -0.070000 0.025000" size="0.005000 0.066000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_23" type="box" pos="-0.020000 -0.131000 0.025000" size="0.024000 0.005000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_24" type="box" pos="0.095500 -0.131000 0.025000" size="0.024500 0.005000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_25" type="box" pos="-0.115000 -0.043000 0.025000" size="0.005000 0.127000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_26" type="box" pos="0.037000 -0.131000 0.025000" size="0.005000 0.039000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_wall_27" type="box" pos="0.000000 -0.175000 0.025000" size="0.120000 0.005000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_exit_corridor_wall_upper" type="box" pos="0.150000 -0.131000 0.025000" size="0.030000 0.005000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_exit_corridor_wall_lower" type="box" pos="0.150000 -0.175000 0.025000" size="0.030000 0.005000 0.025000" rgba="0.75 0.75 0.75 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_exit_corridor_floor" type="box" pos="0.150000 -0.153000 -0.002500" size="0.030000 0.027000 0.002500" rgba="0.2 0.2 0.2 1.0" contype="1" conaffinity="1" friction="1.0 0.005 0.0001"/>
+    <geom name="maze_1_entrance_a_sensor" type="box" pos="-0.096000 0.180500 0.025000" size="0.014000 0.000500 0.025000" rgba="0 1 0 0" contype="0" conaffinity="0"/>
+    <geom name="maze_1_entrance_b_sensor" type="box" pos="-0.096000 0.179500 0.025000" size="0.014000 0.000500 0.025000" rgba="0 1 0 0" contype="0" conaffinity="0"/>
+    <geom name="maze_1_exit_a_sensor" type="box" pos="0.120500 -0.153000 0.025000" size="0.000500 0.017000 0.025000" rgba="0 1 0 0" contype="0" conaffinity="0"/>
+    <geom name="maze_1_exit_b_sensor" type="box" pos="0.119500 -0.153000 0.025000" size="0.000500 0.017000 0.025000" rgba="0 1 0 0" contype="0" conaffinity="0"/>
+    <geom name="maze_1_inside_sensor" type="box" pos="0.000000 0.000000 0.025000" size="0.120000 0.180000 0.025000" rgba="0 1 0 0" contype="0" conaffinity="0"/>
+    <geom name="maze_1_exit_corridor_inside_sensor" type="box" pos="0.150000 -0.153000 0.025000" size="0.030000 0.017000 0.025000" rgba="0 1 0 0" contype="0" conaffinity="0"/>
+</body>
+</mujocoinclude>
